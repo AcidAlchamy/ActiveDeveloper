@@ -1,3 +1,5 @@
+![Active Developer Logo](https://github.com/AcidAlchamy/ActiveDeveloper/blob/main/images/ActiveDeveloper.png)
+
 # Active Developer Project README
 
 ## Overview
